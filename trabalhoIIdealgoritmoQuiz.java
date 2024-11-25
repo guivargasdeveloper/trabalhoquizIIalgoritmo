@@ -3,8 +3,8 @@ public class Quiz {
                 System.out.println("Faculdade Alfredo Nasser");
                 System.out.println("Aluno: Guilherme Augusto de Oliveira Vargas");
                 System.out.println("Professor: Brenno");
-                System.out.println("\nBem-vindo ao Quiz!");
-                System.out.println("Responda 15 perguntas de múltipla escolha.\n");
+                System.out.println("Bem-vindo ao Quiz!");
+                System.out.println("Responda 15 perguntas de múltipla escolha.");
 
                 Questao[] questoes = new Questao[15];
 
